@@ -1,2 +1,2 @@
 # Practice
-Practice exercises and tutorial projects
+Practice exercises and tutorial projects.
